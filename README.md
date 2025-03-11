@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheMillenio
+- 👀 I’m interested in Games and Coding!
+- 🌱 I’m currently learning System Development!
+- 💞️ I’m looking to collaborate on any projects!
+- 📫 How to reach me? Just message me at any time!
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm beggining my journey at the System Development branch!
