@@ -87,10 +87,8 @@ Aplicativo voltado para pessoas neurodivergentes — especialmente indivíduos c
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TheMillenio&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+<img src="https://streak-stats.demolab.com?user=TheMillenio&theme=github-dark&hide_border=true" />
+</p>
 
   <img
     height="180em"
