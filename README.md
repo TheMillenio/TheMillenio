@@ -90,12 +90,6 @@ Aplicativo voltado para pessoas neurodivergentes — especialmente indivíduos c
 <img src="https://streak-stats.demolab.com?user=TheMillenio&theme=github-dark&hide_border=true" />
 </p>
 
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheMillenio&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
 ---
 
 ## 🎯 Foco Atual
